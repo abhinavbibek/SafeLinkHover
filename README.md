@@ -24,4 +24,17 @@ Follow these steps to install and use SafeLinkHover:
    ```bash
    git clone https://github.com/abhinavbibek/SafeLinkHover.git
 
+
+2. **Load the extension in your browser**:
+
+**Open your browser and navigate to the Extensions page:
+For Chrome: Go to chrome://extensions/.
+Enable Developer Mode (usually in the top-right corner of the page).
+Click on Load unpacked (Chrome) or Load Temporary Add-on (Firefox).
+Select the folder where you cloned this repository.
+
+3. **Start using the extension**:
+
+Hover over any link to see its safety status.
+
    
